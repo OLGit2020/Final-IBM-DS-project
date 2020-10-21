@@ -1,2 +1,2 @@
-# Final-IBM-DS-project
+# Coursera-capstone
 IBM Data science Capstone project
